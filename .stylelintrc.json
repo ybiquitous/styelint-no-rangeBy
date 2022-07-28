@@ -1,0 +1,8 @@
+{
+  "defaultSeverity": "error",
+  "customSyntax": "postcss-less",
+  "plugins": [],
+  "rules": {
+    "no-eol-whitespace": true
+  }
+}

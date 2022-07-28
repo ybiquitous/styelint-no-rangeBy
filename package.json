@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "stylelint": "stylelint src/**/*.less"
+  },
+  "devDependencies": {
+    "postcss": "8.3.5",
+    "postcss-less": "6.0.0",
+    "stylelint": "14.9.1"
+  }
+}
